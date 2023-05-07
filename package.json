@@ -1,0 +1,39 @@
+{
+  "name": "void",
+  "displayName": "Void",
+  "description": "Save your eyes.",
+  "version": "1.0.0",
+  "publisher": "Rej",
+  "author": {
+    "name": "Rej",
+    "url": "https://github.com/Rejdesu",
+    "email": "rejdesu@pm.me"
+  },
+  "icon": "./img/void.png",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rejdesu/void"
+  },
+  "bugs": {
+    "url": "https://github.com/Rejdesu/void/issues"
+  },
+  "galleryBanner": {
+    "color": "#1d1d1d",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/void.json"
+      }
+    ]
+  }
+}
