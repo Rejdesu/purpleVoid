@@ -1,7 +1,7 @@
 {
-  "name": "void",
-  "displayName": "Void",
-  "description": "Save your eyes.",
+  "name": "purple_void",
+  "displayName": "Purple Void",
+  "description": "Black theme with purple accents.",
   "version": "1.0.0",
   "publisher": "Rej",
   "author": {
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rejdesu/void"
+    "url": "https://github.com/Rejdesu/purpleVoid"
   },
   "bugs": {
-    "url": "https://github.com/Rejdesu/void/issues"
+    "url": "https://github.com/Rejdesu/purpleVoid/issues"
   },
   "galleryBanner": {
     "color": "#1d1d1d",
@@ -32,7 +32,7 @@
       {
         "label": "Void",
         "uiTheme": "vs-dark",
-        "path": "./themes/void.json"
+        "path": "./themes/purpleVoid.json"
       }
     ]
   }
