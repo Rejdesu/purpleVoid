@@ -1,4 +1,4 @@
-# Purple Void
+# Purple Void for Visual Studio Code
 
 Black theme with purple accents.
 
