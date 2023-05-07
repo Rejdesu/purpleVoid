@@ -1,7 +1,6 @@
 # Void
 
 Save your eyes.
-This is a dark theme for VSCode.
 
 ## License
 
