@@ -11,7 +11,7 @@
   },
   "icon": "./img/void.png",
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.30.0"
   },
   "repository": {
     "type": "git",
