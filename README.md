@@ -3,7 +3,7 @@
 Black theme with purple accents.
 
 # Preview
-<img src="https://raw.githubusercontent.com/Rejdesu/void/main/img/default.jpeg" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/void/main/img/panelTerminal.jpeg" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/void/main/img/commandPalette.jpeg" width="30%"></img>
+Soon.
 
 ## License
 
