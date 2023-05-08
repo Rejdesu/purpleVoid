@@ -3,7 +3,7 @@
 Black theme with purple accents.
 
 # Preview
-Soon.
+<img src="https://raw.githubusercontent.com/Rejdesu/purpleVoid/main/img/default.jpeg" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/purpleVoid/main/img/commandPalette.jpeg" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/purpleVoid/main/img/panelTerminal.jpeg" width="30%"></img>
 
 ## License
 
