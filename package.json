@@ -2,7 +2,7 @@
   "name": "purpleVoid",
   "displayName": "Purple Void",
   "description": "Black theme with purple accents.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Rej",
   "author": {
     "name": "Rej",
@@ -21,7 +21,7 @@
     "url": "https://github.com/Rejdesu/purpleVoid/issues"
   },
   "galleryBanner": {
-    "color": "#1d1d1d",
+    "color": "#111111",
     "theme": "dark"
   },
   "categories": [

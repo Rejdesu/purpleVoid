@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.2] - 2023-08-18
+
+- Updated many of the accent colors to be more consistent throughout the theme
+- Made the theme darker overall
+- Decreased transparency effect on some elements for better visibility
+- Added new preview pictures
+- Updated readme
+
 ## [1.0.1] - 2023-05-08
 
 - Updated readme

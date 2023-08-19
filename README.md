@@ -23,11 +23,11 @@ vsce package
 Install the new VSIX file through Virtual Studio Code extensions. `(extensions>views and more actions...>install from vsix...)`
 
 ## Preview
-![Screenshot Default](img/default.jpeg)
+![Screenshot Default](img/default.png)
 
-![Screenshot Command Palette](img/commandPalette.jpeg)
+![Screenshot Command Palette](img/commandPalette.png)
 
-![Screenshot Terminal](img/panelTerminal.jpeg)
+![Screenshot Terminal](img/panelTerminal.png)
 
 ## License
 
