@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.3] - 2023-09-05
+
+- Added JSON rainbow coloring
+- Updated caret color to a darker color
+- Updated scrollbar color for better visibility
+- Updated syntax colors for better contrast
+- Updated widget backgrounds for better visibility
+
 ## [1.0.2] - 2023-08-18
 
 - Updated many of the accent colors to be more consistent throughout the theme
